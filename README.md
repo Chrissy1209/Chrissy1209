@@ -1,4 +1,6 @@
 ### Hi there 👋 I'm Chrissy !
+<h1 align="center">Hi there👋 I'm Chrissy !</h1>
+<h3 align="center">A student from YZU university.</h3>
 
 <!--
 **Chrissy1209/Chrissy1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

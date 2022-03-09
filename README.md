@@ -1,5 +1,5 @@
-Hi there👋 I'm Chrissy !
-<!-- <h1 align="left">Hi there👋 I'm Chrissy !!</h1> -->
+<!-- Hi there👋 I'm Chrissy ! -->
+<h1 align="left">Hi there👋 I'm Chrissy !!</h1>
 <h3 align="left">A student of Yuan Ze University.</h3>
 - 🔭 I’m currently working on Solidity.
 <!--

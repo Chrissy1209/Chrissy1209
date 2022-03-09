@@ -1,8 +1,8 @@
 ### Hi there👋 I'm Chrissy !
 <!-- <h1 align="left">Hi there👋 I'm Chrissy !!</h1> -->
 <!-- <h4 align="left">A student of Yuan Ze University.</h4> -->
-<hr>
-A student of Yuan Ze University.
+
+A student of Yuan Ze University.<br>
 - 🔭 I’m currently working on Solidity.
 
 <!--

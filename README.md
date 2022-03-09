@@ -1,8 +1,9 @@
 ### Hi there👋 I'm Chrissy !
 <!-- <h1 align="left">Hi there👋 I'm Chrissy !!</h1> -->
-<h4 align="left">A student of Yuan Ze University.</h4>
+<!-- <h4 align="left">A student of Yuan Ze University.</h4> -->
+<hr>
+A student of Yuan Ze University.
 - 🔭 I’m currently working on Solidity.
-
 
 <!--
 **Chrissy1209/Chrissy1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

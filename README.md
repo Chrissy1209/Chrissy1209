@@ -3,8 +3,9 @@
 <!-- <h4 align="left">A student of Yuan Ze University.</h4> -->
 
 A student of Yuan Ze University.<br>
-- 🔭 I’m currently working on Solidity.
-
+- I’m currently working on Solidity.
+  - use Solidity to build Smart Contracts, and depoly to Ethereum Testnet Kintsugi.
+  - My Metamask Address: 0x530a17E61B8B0f34Bf2521c78e2fcD1df8365582
 <!--
 **Chrissy1209/Chrissy1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

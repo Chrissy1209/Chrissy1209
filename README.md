@@ -3,7 +3,7 @@
 <!-- <h4 align="left">A student of Yuan Ze University.</h4> -->
 
 #### A student of Yuan Ze University.<br>
-#### - Currently working on Solidity : <br>
+#### - Currently working on Solidity<br>
 > use Remix IDE to build Smart Contracts and deploy to Ethereum Testnet Kintsugi.<br>
 > Metamask Address: 0x530a17E61B8B0f34Bf2521c78e2fcD1df8365582<br>
 <!--

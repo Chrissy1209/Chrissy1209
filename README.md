@@ -1,8 +1,8 @@
-### Hi there 👋   I'm Chrissy !
+## Hi there 👋   I'm Chrissy !
 <!-- <h1 align="left">Hi there👋 I'm Chrissy !!</h1> -->
 <!-- <h4 align="left">A student of Yuan Ze University.</h4> -->
 
-# A student of Yuan Ze University.<br><br>
+##### A student of Yuan Ze University.<br><br>
 I’m currently working on Solidity.
 - use Remix IDE to build Smart Contracts and deploy to Ethereum Testnet Kintsugi.
 - My Metamask Address: 0x530a17E61B8B0f34Bf2521c78e2fcD1df8365582

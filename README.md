@@ -3,7 +3,7 @@
 <!-- <h4 align="left">A student of Yuan Ze University.</h4> -->
 
 A student of Yuan Ze University.<br>
-Currently working on **React** .
+Currently working on **React**.
 
 <!-- Recently interested on DApps. -->
 #### Smart Contract : <br>

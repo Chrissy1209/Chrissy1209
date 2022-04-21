@@ -3,7 +3,6 @@
 <!-- <h4 align="left">A student of Yuan Ze University.</h4> -->
 
 A student of Yuan Ze University.
-
 #### - Currently working on React.
 
 <!-- Recently interested on DApps. -->

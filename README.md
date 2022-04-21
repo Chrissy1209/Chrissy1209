@@ -2,9 +2,8 @@
 <!-- <h1 align="left">Hi there👋 I'm Chrissy !!</h1> -->
 <!-- <h4 align="left">A student of Yuan Ze University.</h4> -->
 
-A student of Yuan Ze University.
-Currently working on 
-#### React.
+A student of Yuan Ze University.<br>
+Currently working on <strongth> React </strongth>.
 
 <!-- Recently interested on DApps. -->
 #### Smart Contract : <br>

@@ -2,7 +2,7 @@
 <!-- <h1 align="left">Hi there👋 I'm Chrissy !!</h1> -->
 <!-- <h4 align="left">A student of Yuan Ze University.</h4> -->
 
-A student of Yuan Ze University.
+<p>A student of Yuan Ze University.</p>
 #### Currently working on React.
 
 <!-- Recently interested on DApps. -->

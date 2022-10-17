@@ -2,6 +2,7 @@
 <!-- <h1 align="left">Hi there👋 I'm Chrissy !!</h1> -->
 <!-- <h4 align="left">A student of Yuan Ze University.</h4> -->
 
+LinkIn: https://www.linkedin.com/in/chrissy-hsu-999703227/
 A student of Yuan Ze University.<br>
 <!-- Currently working on **React Native** using Expo. -->
 <!-- <br> -->

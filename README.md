@@ -4,7 +4,7 @@
 A student of Yuan Ze University, an intern at Maicoin.
 <br>
 
-[LinkIn](https://www.linkedin.com/in/chrissy-hsu-999703227/)
+[LinkedIn](https://www.linkedin.com/in/chrissy-hsu-999703227/)
 
 <!-- Currently working on **React Native** using Expo. -->
 <!-- <br> -->

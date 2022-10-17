@@ -1,8 +1,6 @@
 ## Hello World ! I'm Chrissy 👋
 <!-- <h4 align="left">A student of Yuan Ze University.</h4> -->
 
-<br>
-
 [LinkIn](https://www.linkedin.com/in/chrissy-hsu-999703227/)
 
 <!-- Currently working on **React Native** using Expo. -->

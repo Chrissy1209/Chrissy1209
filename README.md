@@ -1,7 +1,7 @@
 ## Hello World ! I'm Chrissy 👋
 <!-- <h4 align="left">A student of Yuan Ze University.</h4> -->
 
-An ex-intern at MaiCoin, graduated from Yuan Ze University.
+Graduated from Yuan Ze University, an ex-intern at MaiCoin.
 <br>
 
 [LinkedIn](https://www.linkedin.com/in/chrissy-hsu-999703227/)

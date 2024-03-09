@@ -4,7 +4,7 @@
 Graduated from Yuan Ze University, an ex-frontend-intern at MaiCoin.
 <br>
 <!-- [LinkedIn](https://www.linkedin.com/in/chrissy-hsu-999703227/) -->
-[Personal Website](https://personal-webpage-tau-ten.vercel.app)
+[visit my personal website!](https://personal-webpage-tau-ten.vercel.app)
 
 
 <!-- Currently working on **React Native** using Expo. -->

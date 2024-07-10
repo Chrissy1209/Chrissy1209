@@ -2,6 +2,7 @@
 <!-- <h4 align="left">A student of Yuan Ze University.</h4> -->
 
 I'm a frontend engineer with one year of internship experience at [MaiCoin](https://group.maicoin.com/).
+<br>
 Graduated from Yuan Ze University.
 <br>
 <!-- [LinkedIn](https://www.linkedin.com/in/chrissy-hsu-999703227/) -->

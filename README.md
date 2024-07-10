@@ -1,7 +1,8 @@
 ## Hello World ! I'm Chrissy 👋
 <!-- <h4 align="left">A student of Yuan Ze University.</h4> -->
 
-Graduated from Yuan Ze University, an ex-frontend-intern at MaiCoin.
+I'm a frontend engineer with one year of internship experience at [MaiCoin](https://group.maicoin.com/).
+Graduated from Yuan Ze University.
 <br>
 <!-- [LinkedIn](https://www.linkedin.com/in/chrissy-hsu-999703227/) -->
 [visit my personal website!](https://personal-webpage-tau-ten.vercel.app)

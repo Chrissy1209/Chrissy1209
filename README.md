@@ -1,14 +1,14 @@
 ## Hello World, I'm Chrissy 👋
 
-I'm a frontend Engineer with solid experience in modern web technologies including TypeScript, Next.js, and Tailwind. Skilled in refactoring legacy code, enhancing code quality through rigorous reviews, and leveraging AI-assisted tools to boost development efficiency. Passionate about user-centric design, cross-functional collaboration, and continuous learning.
+I'm a frontend Engineer with solid experience in modern web technologies including TypeScript, Next.js, and Tailwind. 
+<br>
+Skilled in refactoring legacy code, enhancing code quality through rigorous reviews, and leveraging AI-assisted tools to boost development efficiency. Passionate about user-centric design, cross-functional collaboration, and continuous learning.
+
+－
 
 <br>
 
 Always seeking new challenges and opportunities to grow. 👨‍💻
-
-<br>
-
-－
 
 <br>
 

@@ -10,8 +10,6 @@ Skilled in refactoring legacy code, enhancing code quality through rigorous revi
 
 Always seeking new challenges and opportunities to grow. 👨‍💻
 
-<br>
-
 [visit my personal website here!](https://personal-webpage-tau-ten.vercel.app)
 
 

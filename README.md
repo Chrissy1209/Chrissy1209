@@ -1,22 +1,21 @@
-## Hello World! 👋
+## Hello World, I'm Chrissy 👋
 
-It's Chrissy,<br>
-a frontend Engineer with solid experience in modern web technologies including TypeScript, Next.js, and Tailwind. Skilled in refactoring legacy code, enhancing code quality through rigorous reviews, and leveraging AI-assisted tools to boost development efficiency. Passionate about user-centric design, cross-functional collaboration, and continuous learning.
+I'm a frontend Engineer with solid experience in modern web technologies including TypeScript, Next.js, and Tailwind. Skilled in refactoring legacy code, enhancing code quality through rigorous reviews, and leveraging AI-assisted tools to boost development efficiency. Passionate about user-centric design, cross-functional collaboration, and continuous learning.
+
+<br>
+
+Always seeking new challenges and opportunities to grow. 👨‍💻
 
 <br>
 
 －
-Always seeking new challenges and opportunities to grow. 👨‍💻
 
 <br>
-<br>
+
 [visit my personal website here!](https://personal-webpage-tau-ten.vercel.app)
 
 
-
 <!-- [LinkedIn](https://www.linkedin.com/in/chrissy-hsu-999703227/) -->
-
-
 <!-- Currently working on **React Native** using Expo. -->
 <!-- <br> -->
 <!-- I'm a frontend engineer with one year of internship experience at [MaiCoin](https://group.maicoin.com/). -->

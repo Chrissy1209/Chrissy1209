@@ -1,4 +1,4 @@
-## Hello World, I'm Chrissy 👋
+## Hello World, I'm Chrissy :D
 
 I'm a frontend Engineer with solid experience in modern web technologies including TypeScript, Next.js, and Tailwind. 
 <br>

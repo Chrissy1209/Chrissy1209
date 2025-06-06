@@ -8,7 +8,7 @@ Skilled in refactoring legacy code, enhancing code quality through rigorous revi
 
 <br>
 
-Always seeking new challenges and opportunities to grow. 👨‍💻
+Seeking new challenges and opportunities to grow now. 👨‍💻
 
 [visit my personal website here!](https://personal-webpage-tau-ten.vercel.app)
 

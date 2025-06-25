@@ -10,9 +10,7 @@ Seeking opportunities in international teams that value ownership and continuous
 
 －
 <br>
-[LinkedIn](https://www.linkedin.com/in/chrissy-hsu-999703227/)
-<br>
-[My personal website!](https://personal-webpage-tau-ten.vercel.app)
+[LinkedIn](https://www.linkedin.com/in/chrissy-hsu-999703227/) | [My personal website!](https://personal-webpage-tau-ten.vercel.app)
 
 
 <!--

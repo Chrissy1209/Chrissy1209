@@ -9,12 +9,10 @@ I'm a Frontend Engineer with strong experience in React ecosystem, cross-functio
 Seeking opportunities in international teams that value ownership and continuous learning. 🚀
 
 －
-
 <br>
-
 [LinkedIn](https://www.linkedin.com/in/chrissy-hsu-999703227/)
 <br>
-[visit my personal website here!](https://personal-webpage-tau-ten.vercel.app)
+[My personal website!](https://personal-webpage-tau-ten.vercel.app)
 
 
 <!--

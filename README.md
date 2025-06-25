@@ -1,8 +1,11 @@
 ## Hello World, I'm Chrissy :D
 
-I'm a frontend Engineer with solid experience in modern web technologies including TypeScript, Next.js, and Tailwind. 
+👨‍💻 UX-driven | TypeScript / Next.js | Refactoring Legacy Code | AI Developer Tools 👨‍💻
 <br>
-Skilled in refactoring legacy code, enhancing code quality through rigorous reviews, and leveraging AI-assisted tools to boost development efficiency. Passionate about user-centric design, cross-functional collaboration, and continuous learning.
+
+I'm a Frontend Engineer with strong experience in React ecosystem, cross-functional collaboration, and AI-powered development workflows. Passionate about building scalable and user-centric web apps. 
+<br>
+Seeking opportunities in international teams that value ownership and continuous learning. 🚀
 
 －
 
@@ -11,13 +14,15 @@ Skilled in refactoring legacy code, enhancing code quality through rigorous revi
 Seeking new challenges and opportunities to grow now. 👨‍💻
 
 [visit my personal website here!](https://personal-webpage-tau-ten.vercel.app)
+[LinkedIn](https://www.linkedin.com/in/chrissy-hsu-999703227/)
 
 
-<!-- [LinkedIn](https://www.linkedin.com/in/chrissy-hsu-999703227/) -->
-<!-- Currently working on **React Native** using Expo. -->
-<!-- <br> -->
-<!-- I'm a frontend engineer with one year of internship experience at [MaiCoin](https://group.maicoin.com/). -->
-<!-- Recently interested on DApps. -->
+<!--
+I'm a frontend Engineer with solid experience in modern web technologies including TypeScript, Next.js, and Tailwind. 
+<br>
+Skilled in refactoring legacy code, enhancing code quality through rigorous reviews, and leveraging AI-assisted tools to boost development efficiency. Passionate about user-centric design, cross-functional collaboration, and continuous learning.
+-->
+
 
 <!--
 #### My Smart Contract :
